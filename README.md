@@ -8,5 +8,6 @@ Project Execution
     Enter the cloned repository directory and execute pip install -r requirements.txt.
     To train the model, run the train.py script by using the following command python train.py, this scripts looks for number of GPU's and train accordingly
     To evaluate on test data, run command python evaluate.py, this will return loss and accuracy for test.csv file
-    There is also a detailed report explaing approach to execution 
+    There is also a detailed report explaing approach to execution
+    config file is not yet completed
     
