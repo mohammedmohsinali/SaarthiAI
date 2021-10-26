@@ -1,7 +1,7 @@
 Project Execution
 
     Open the Terminal.
-    Clone the repository by entering 
+    Clone the repository by entering https://github.com/mohammedmohsinali/SaarthiAI.git
     Ensure that Python3 and pip/conda is installed on the system.
     Create a virtualenv by executing the following command: virtualenv -p python3 env.
     Activate the env virtual environment by executing the follwing command: source env/bin/activate.
