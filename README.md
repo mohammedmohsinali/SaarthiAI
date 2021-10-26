@@ -10,5 +10,6 @@ Project Execution
     To train the model, run the train.py script by using the following command python train.py, this scripts looks for number of GPU's and train accordingly
     To evaluate on test data, run command python evaluate.py, this will return loss and accuracy for test.csv file
     There is also a detailed report explaing approach to execution
-    config file is not yet completed
+    Config file is not yet completed
+    Cloab link --> https://colab.research.google.com/drive/1Tio4fO9eLGGHKcNhx3JHQcehP6Q-rbmu?usp=sharing
     
